@@ -1,8 +1,6 @@
 # Readme
 
-Node.js web app for use in Pluralsight [Getting Started with Kubernetes](https://app.pluralsight.com/library/courses/getting-started-kubernetes/table-of-contents) video course.
-
-Packages and dependencies will be upadted annually. May contain vulnerable code, **use at own risk**.
+This is taken from Nigel plural sight course and then modified per my requirement
 
 ## App
 
@@ -26,5 +24,3 @@ A publically available pre-created container image is available for download [he
 
 I'm passionate about tech, and I'm all about making Kubernetes less scary!
 
-- Twitter: [@nigelpoulton](https://twitter.com/nigelpoulton)
-- LinkedIn: [Nigel Poulton](https://www.linkedin.com/in/nigelpoulton/)
